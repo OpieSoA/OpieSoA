@@ -8,12 +8,7 @@
 - 🌱 I’m currently learning everything new!
 - ⚡ Fun fact: I love Heavy Metal
 
-## Connect with me:
-
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/74331400/123316070-cebbd800-d502-11eb-9671-d7ba4c9f5d9f.png" />
-<img align="left" alt="Linkedln" width="26px" src="https://user-images.githubusercontent.com/74331400/123316067-cd8aab00-d502-11eb-9688-a6534ad9d17a.png" />
-
-
+##
 
 ### Languages and Tools:
 
