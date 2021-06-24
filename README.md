@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Kevin - aka The Undertaker on Discord 👋
 
-<!--
-**XxKevinxX97/XxKevinxX97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently studying on Educación IT (ISTEA)
+- 🌱 I’m currently learning everything new!
+- ⚡ Fun fact: I love Heavy Metal
+
+
+### Languages and Tools:
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Node.js
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+HTML5
+
+Python
+
