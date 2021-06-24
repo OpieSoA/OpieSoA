@@ -10,8 +10,9 @@
 
 ## Connect with me:
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/74331400/123281405-0c5b3980-d4e0-11eb-9621-37f4522e3299.png" />
-<img align="left" alt="Linkedln" width="26px" src="https://user-images.githubusercontent.com/74331400/123281407-0cf3d000-d4e0-11eb-90a2-101763c2af5e.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/74331400/123316070-cebbd800-d502-11eb-9671-d7ba4c9f5d9f.png" />
+<img align="left" alt="Linkedln" width="26px" src="https://user-images.githubusercontent.com/74331400/123316067-cd8aab00-d502-11eb-9688-a6534ad9d17a.png" />
+
 
 
 ### Languages and Tools:
