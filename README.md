@@ -10,10 +10,6 @@
 
 ##
 
-### Connect with me:
-[GitHub](https://github.com/XxKevinxX97)
-[Linkedln](https://www.linkedin.com/in/kevin-suasnabar/)
-
 ### Languages and Tools:
 
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/74331400/123355236-9dabc980-d53b-11eb-94b6-c2c89ceb220a.png" />
