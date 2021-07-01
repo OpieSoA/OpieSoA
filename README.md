@@ -11,8 +11,8 @@
 ##
 
 ### Connect with me:
-[GitHub](github.com/XxKevinxX97)
-[Linkedln](linkedin.com/in/kevin-suasnabar)
+[GitHub](https://github.com/XxKevinxX97)
+[Linkedln](https://www.linkedin.com/in/kevin-suasnabar/)
 
 ### Languages and Tools:
 
