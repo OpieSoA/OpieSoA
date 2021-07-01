@@ -8,9 +8,11 @@
 - 🌱 I’m currently learning everything new!
 - ⚡ Fun fact: I love Heavy Metal
 
-## Connect with me:
+##
+
+### Connect with me:
 [GitHub](github.com/XxKevinxX97)
-[GitHub](linkedin.com/in/kevin-suasnabar)
+[Linkedln](linkedin.com/in/kevin-suasnabar)
 
 ### Languages and Tools:
 
