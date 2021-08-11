@@ -19,6 +19,9 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/74331400/123281407-0cf3d000-d4e0-11eb-90a2-101763c2af5e.png" />
+<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/74331400/123281401-0bc2a300-d4e0-11eb-86b6-00ef026d177f.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/74331400/123281409-0cf3d000-d4e0-11eb-8a48-13a4afb507d0.png" />
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/74331400/123355236-9dabc980-d53b-11eb-94b6-c2c89ceb220a.png" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/74331400/123281417-0e24fd00-d4e0-11eb-8298-78dd2cbfd301.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/74331400/123281403-0c5b3980-d4e0-11eb-8775-5e1da075d97e.png" />
