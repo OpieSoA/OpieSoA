@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin - aka The Undertaker on Discord 👋
+### Hi there, I'm Kevin - aka Alfie Solomons on Discord 👋
 
 ##
 
