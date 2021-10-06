@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="XxKevin97xX | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/74331400/124052148-3fc42980-d9f4-11eb-8692-8fedf3d4fb30.png" />][linkedin]
+[<img align="left" alt="XxKevin97xX | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/74331400/136290421-8e932c72-8ce6-444f-b139-d7b54565d7fb.png" />][linkedin]
 
 <br />
 
