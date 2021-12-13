@@ -7,7 +7,7 @@
 <br />
 
 ## I'm a Student Developer!
-- 🔭 I’m currently studying on Educación IT (ISTEA)
+- 🔭 I’m currently studying on Educación IT
 - 🌱 I’m currently learning everything new!
 - ⚡ Fun fact: I love Heavy Metal
 
