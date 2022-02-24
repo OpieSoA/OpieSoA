@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin - aka Alfie Solomons on Discord 👋
+### Hi there, I'm Kevin 👋
 
 ##
 
@@ -7,7 +7,7 @@
 <br />
 
 ## I'm a Student Developer!
-- 🔭 I’m currently studying on Educación IT
+- 🔭 Educación IT
 - 🌱 I’m currently learning everything new!
 - ⚡ Fun fact: I love Heavy Metal
 
@@ -33,9 +33,6 @@
 <br />
 
 ---
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XxKevin97xX&layout=compact)](https://github.com/XxKevin97xX/github-readme-stats)
-
 
 [website]: https://www.facebook.com/taekwondoitfgeba
 [linkedin]: https://www.linkedin.com/in/kevin-suasnabar/
