@@ -1,4 +1,4 @@
-### Hi there, I'm Kevin 👋
+### Hi there, I'm Kevin aka 666HeavyDee_Sixx on Discord. 👋
 
 ##
 
