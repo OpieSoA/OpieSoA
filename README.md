@@ -2,7 +2,7 @@
 
 ##
 
-[![Website](https://user-images.githubusercontent.com/74331400/161770570-e89d04b6-c4b4-4bb7-a26f-1d1f6d5891dd.png)][website]
+[![Website](https://user-images.githubusercontent.com/74331400/161770871-5b1129ca-a4ed-491f-810a-98df2ad65714.png)][website]
 
 <br />
 
