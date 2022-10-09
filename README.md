@@ -6,10 +6,13 @@
 
 <br />
 
+### 🤸‍♂️ About me 
+
 ## I'm a Student Developer!
 - 🔭 Full Stack Engineer - Educación IT
 - 🌱 I’m currently learning everything new!
 - ⚡ Fun fact: I love Heavy Metal
+- 👨‍💻 I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg">
 
 ### Connect with me:
 
