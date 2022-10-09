@@ -13,6 +13,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="kacsn7 | Instagram" width="22px" src="https://user-images.githubusercontent.com/74331400/194763749-e8e05b2d-c491-41e8-9a6c-84d0853947bd.png"/>][instagram]
 [<img align="left" alt="XxKevin97xX | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/74331400/136290421-8e932c72-8ce6-444f-b139-d7b54565d7fb.png" />][linkedin]
 
 <br />
@@ -41,3 +42,4 @@
 
 [website]: https://www.facebook.com/taekwondoitfgeba
 [linkedin]: https://www.linkedin.com/in/kevin-suasnabar/
+[instagram]: https://www.instagram.com/kacsn7/
