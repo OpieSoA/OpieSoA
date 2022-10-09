@@ -7,7 +7,7 @@
 <br />
 
 ## I'm a Student Developer!
-### 🤸‍♂️ About me
+### 🥋 About me
 - 🔭 Full Stack Engineer - Educación IT
 - 🌱 I’m currently learning everything new!
 - ⚡ Fun fact: I love Heavy Metal
