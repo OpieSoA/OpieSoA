@@ -29,7 +29,7 @@
 <br />
 
 ### Learning:
-<code><img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/74331400/123281413-0d8c6680-d4e0-11eb-8ae6-7a8b7e466ca0.png" /><code>
+<code><img align="left" alt="Node.js" height="20" src="https://user-images.githubusercontent.com/74331400/123281413-0d8c6680-d4e0-11eb-8ae6-7a8b7e466ca0.png" /></code>
 <img align="left" alt="mongodb" width="26px" src="https://user-images.githubusercontent.com/74331400/194762208-8df23a27-2d39-4a19-9c35-7f323d75310d.png" />
 
 <br />
