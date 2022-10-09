@@ -27,7 +27,7 @@
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/74331400/123281412-0d8c6680-d4e0-11eb-9754-64805bd75cb3.png" />
 
 **Learning**
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 <br />
 <br />
