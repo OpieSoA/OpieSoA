@@ -26,7 +26,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/74331400/123281405-0c5b3980-d4e0-11eb-9621-37f4522e3299.png" />
 <img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/74331400/123281412-0d8c6680-d4e0-11eb-9754-64805bd75cb3.png" />
 
-###**Learning:**
+### Learning:
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/74331400/123281413-0d8c6680-d4e0-11eb-8ae6-7a8b7e466ca0.png" />
 <img align="left" alt="mongodb" width="26px" src="https://user-images.githubusercontent.com/74331400/194762208-8df23a27-2d39-4a19-9c35-7f323d75310d.png" />
 
