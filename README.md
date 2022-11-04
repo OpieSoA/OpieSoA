@@ -28,6 +28,12 @@ I am working on different personal projects to gain experience and build connect
 ### Recruitment
 - 💻 I'm open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other proyect(s)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kevin-suasnabar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-suasnabar" height="30" width="40" /></a>
+<a href="https://instagram.com/kacsn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kacsn7" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
