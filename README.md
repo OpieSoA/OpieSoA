@@ -1,26 +1,32 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">I'm a Student Developer!</h3>
+<h1 align="center">👋 Hi There 🤠</h1>
 
 ###
 
 [![Website](https://user-images.githubusercontent.com/74331400/161770871-5b1129ca-a4ed-491f-810a-98df2ad65714.png)][website]
 
+<br>
+
+Hi, I'm Kevin Suasnabar. I'm a Student Developer! 👨‍💻 <br>
+My skills include to Frontend Development AND learning new things being what I am the best at!
+
+I am working on different personal projects to gain experience and build connections
+
+### Currently working on TKD ITF Web page<br>
+**Project Name:** Taekwondo GEBA<br>
+**Software Stack:** HTML, CSS and Javascript<br>
+
+### My studies
+- ISTEA (Educacion IT)
+  - System Analysis Technique (2021) <br />
+- Bootcamp (Educacion IT)
+  - Fullstack Engineer (2022)
+
+<br>
+
 <p align="left"> <a href="https://twitter.com/kacsn7" target="blank"><img src="https://img.shields.io/twitter/follow/kacsn7?logo=twitter&style=for-the-badge" alt="kacsn7" /></a> </p>
 
-<br />
-
-### 🥋 About me:
-- 🔭 Full Stack Engineer - Educación IT
-- 🌱 I’m currently learning everything new!
-- 👨‍💻 I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg">
-- ⚡ Fun fact: I love Heavy Metal
-
-### Connect with me:
-
-[<img align="left" alt="kacsn7 | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>][instagram]
-[<img align="left" alt="XxKevin97xX | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/74331400/136290421-8e932c72-8ce6-444f-b139-d7b54565d7fb.png" />][linkedin]
-
-<br />
+### Recruitment
+- 💻 I'm open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other proyect(s)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -37,14 +43,21 @@
 <br />
 
 <h3 align="left">Learning:</h3>
-<img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/74331400/123281413-0d8c6680-d4e0-11eb-8ae6-7a8b7e466ca0.png" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" alt="mongodb" width="26px" src="https://user-images.githubusercontent.com/74331400/194762208-8df23a27-2d39-4a19-9c35-7f323d75310d.png" />
 
-<br />
-<br />
+<br>
+<br>
 
+### 📈 My GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theblackzoom666&show_icons=true&locale=en" alt="theblackzoom666" /></p>
+
+
+### 🥋 More about me:
+↣ 🔰 Frontend Developer <br>
+↣ 🌱 I’m currently learning everything new! <br>
+↣ 👨‍💻 I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg"> <br>
+↣ 🥋 2nd Degree Black Belt TKD <br>
+↣ ⚡ Fun fact: I love Heavy Metal
 
 ---
 
