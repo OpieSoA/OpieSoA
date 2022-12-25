@@ -67,6 +67,6 @@ I am working on different personal projects to gain experience and build connect
 
 ---
 
-[website]: https://www.facebook.com/taekwondoitfgeba
+[website]: https://tkdgeba.wixsite.com/tkditfgeba
 [linkedin]: https://www.linkedin.com/in/kevin-suasnabar/
 [instagram]: https://www.instagram.com/kacsn7/
