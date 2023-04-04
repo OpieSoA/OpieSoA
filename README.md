@@ -59,11 +59,11 @@ I am working on different personal projects to gain experience and build connect
 
 
 ### 🥋 More about me:
-↣ 🔰 Trainee Frontend Developer <br>
-↣ 🌱 I’m currently learning everything new! <br>
-↣ 👨‍💻 I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg"> <br>
-↣ 🥋 3rd Degree Black Belt TKD <br>
-↣ ⚡ Fun fact: I love Heavy Metal
+↣ 🔰┇ Trainee Frontend Developer <br>
+↣ 🌱┇ I’m currently learning everything new! <br>
+↣ 👨‍💻┇ I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg"> <br>
+↣ 🥋┇ 3rd Degree Black Belt TKD <br>
+↣ ⚡┇ Fun fact: I love Heavy Metal
 
 ---
 
