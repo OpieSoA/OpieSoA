@@ -55,7 +55,7 @@ I am working on different personal projects to gain experience and build connect
 <br>
 
 ### 📈 My GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theblackzoom666&show_icons=true&locale=en" alt="theblackzoom666" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theblackzoom666&show_icons=true&locale=en" alt="opiesoa" /></p>
 
 
 ### 🥋 More about me:
