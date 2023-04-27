@@ -49,7 +49,7 @@ I am working on different personal projects to gain experience and build connect
 <br />
 
 <h3 align="left">Learning:</h3>
-<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="PhP" width="30px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
 
 <br>
 <br>
