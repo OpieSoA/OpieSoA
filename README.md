@@ -1,17 +1,15 @@
-<h1 align="center">👋 Hi There 🤠</h1>
-
-###
-
-[![Website](https://user-images.githubusercontent.com/74331400/161770871-5b1129ca-a4ed-491f-810a-98df2ad65714.png)][website]
+# ![e0bard](https://github.com/OpieSoA/OpieSoA/assets/74331400/498daeae-f129-4592-9fa6-e103ab262b26) 👋 Hi There, I'm Kevin Suasnabar 🤠
+### Indie (Trainee) Fullstack Developer & Cybersecurity Student
 
 <br>
 
-Hi, I'm Kevin Suasnabar. I'm a Student Developer! 👨‍💻 <br>
+I'm a Student Developer and Professional Discord Server Builder!! 👨‍💻 <br>
 My skills include to Frontend Development AND learning new things being what I am the best at!
 
-I am working on different personal projects to gain experience and build connections
+I am working on different personal projects to gain experience and build connections. 
+I am currently an ITF Taekwondo Instructor and Community Manager of GEBA Taekwondo.
 
-### Currently working on TKD ITF Web page<br>
+### ![Website](https://user-images.githubusercontent.com/74331400/161770871-5b1129ca-a4ed-491f-810a-98df2ad65714.png) Currently working on TKD ITF Web page (paused)<br>
 **Project Name:** Taekwondo GEBA<br>
 **Software Stack:** HTML, CSS and Javascript<br>
 
@@ -30,8 +28,7 @@ I am working on different personal projects to gain experience and build connect
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kevin-suasnabar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-suasnabar" height="30" width="40" /></a>
-<a href="https://instagram.com/kacsn7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kacsn7" height="30" width="40" /></a>
+<a href="https://link-in-bio-opiesoa.vercel.app/" target="blank"><img align="center" src="https://github.com/OpieSoA/OpieSoA/assets/74331400/4ef8bf83-cd2e-4a23-8cbb-b8bfcfd699b2" alt="Link Bio" height="40" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,7 +46,8 @@ I am working on different personal projects to gain experience and build connect
 <br />
 
 <h3 align="left">Learning:</h3>
-<img align="left" alt="PhP" width="30px" src="https://www.vectorlogo.zone/logos/php/php-icon.svg" />
+
+<img align="left" alt="Python" width="110px" src="https://github.com/OpieSoA/OpieSoA/assets/74331400/96801325-00ec-4319-bf30-7d79c576bc7b"/>
 
 <br>
 <br>
@@ -59,7 +57,7 @@ I am working on different personal projects to gain experience and build connect
 
 
 ### 🥋 More about me:
-↣ 🔰┇ Trainee Frontend Developer <br>
+↣ 📟┇Moderator in 7 Discord Servers <br>
 ↣ 🌱┇ I’m currently learning everything new! <br>
 ↣ 👨‍💻┇ I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg"> <br>
 ↣ 🥋┇ 3rd Degree Black Belt TKD <br>
