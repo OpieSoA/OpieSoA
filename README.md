@@ -27,38 +27,39 @@ I'm working on different personal projects to gain experience and build connecti
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://link-in-bio-opiesoa.vercel.app/" target="blank"><img align="center" src="https://github.com/OpieSoA/OpieSoA/assets/74331400/4ef8bf83-cd2e-4a23-8cbb-b8bfcfd699b2" alt="Link Bio" height="40" width="40" /></a>  
+<a href="https://link-in-bio-opiesoa.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Link Bio"/></a>  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/74331400/123281409-0cf3d000-d4e0-11eb-8a48-13a4afb507d0.png" />
-<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/74331400/123281417-0e24fd00-d4e0-11eb-8298-78dd2cbfd301.png" />
-<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="vsCode" width="26px" src="https://user-images.githubusercontent.com/74331400/145874101-e009d268-35ae-44a5-923d-ed8971ee555e.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/74331400/123281405-0c5b3980-d4e0-11eb-9621-37f4522e3299.png" />
-<img align="left" alt="Linux" width="26px" src="https://user-images.githubusercontent.com/74331400/123281412-0d8c6680-d4e0-11eb-9754-64805bd75cb3.png" />
-<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br />
 
 <h3 align="left">Learning:</h3>
 
-<img align="left" alt="Python" width="110px" src="https://github.com/OpieSoA/OpieSoA/assets/74331400/96801325-00ec-4319-bf30-7d79c576bc7b"/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>
 <br>
 
-### 📈 My GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OpieSoA&show_icons=true&locale=en" alt="opiesoa" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OpieSOA&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OpieSOA&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OpieSOA&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=OpieSOA&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=OpieSOA&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 
 ### 🥋 More about me:
 ↣ 📟┇Moderator in 7 Discord Servers <br>
 ↣ 🌱┇ I’m currently learning everything new! <br>
-↣ 👨‍💻┇ I use Arch Btw <img height="20" src="https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/master/icons/archlinux-icon-crystal-32.svg"> <br>
 ↣ 🥋┇ 3rd Degree Black Belt TKD <br>
 ↣ ⚡┇ Fun fact: I love Heavy Metal
 
