@@ -20,8 +20,6 @@ I'm working on different personal projects to gain experience and build connecti
 
 <br>
 
-<p align="left"> <a href="https://twitter.com/kacsn7" target="blank"><img src="https://img.shields.io/twitter/follow/kacsn7?logo=twitter&style=for-the-badge" alt="kacsn7" /></a> </p>
-
 ### Recruitment
 - 💻 I'm open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other proyect(s)
 
@@ -67,4 +65,3 @@ I'm working on different personal projects to gain experience and build connecti
 
 [website]: https://tkdgeba.wixsite.com/tkditfgeba
 [linkedin]: https://www.linkedin.com/in/kevin-suasnabar/
-[instagram]: https://www.instagram.com/kacsn7/
