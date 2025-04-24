@@ -25,7 +25,7 @@ I'm working on different personal projects to gain experience and build connecti
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://link-in-bio-opiesoa.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Link Bio"/></a>  
+<a href="https://links-drwells.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Link Bio"/></a>  
 </p>
 
 # 💻 Tech Stack:
