@@ -25,7 +25,7 @@ I'm working on different personal projects to gain experience and build connecti
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://links-drwells.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white" alt="Link Bio"/></a>
+<a href="https://links-drwells.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Link Bio"/></a>
 <a href="mailto:kevin.suasnabar@protonmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Link Bio"/></a>  
 </p>
 
