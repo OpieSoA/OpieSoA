@@ -8,7 +8,7 @@ My skills include to Frontend Development AND learning new things being what I a
 
 I'm working on different personal projects to gain experience and build connections. And also currently working as Instructor and Community Manager on Taekwondo GEBA.
 
-### [![Website](https://user-images.githubusercontent.com/74331400/161770871-5b1129ca-a4ed-491f-810a-98df2ad65714.png)][website] Currently working on TKD ITF Web page (paused)<br>
+### [![Website](https://user-images.githubusercontent.com/74331400/161770871-5b1129ca-a4ed-491f-810a-98df2ad65714.png)][website] Currently working on TKD ITF Web page<br>
 **Project Name:** Taekwondo GEBA<br>
 **Software Stack:** HTML, CSS and Javascript<br>
 
