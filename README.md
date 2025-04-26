@@ -73,5 +73,5 @@ I'm working on different personal projects to gain experience and build connecti
 
 ---
 
-[website]: https://taekwondogeba.wixsite.com/tkd-geba
+[website]: https://taekwondogeba.vercel.app/
 [linkedin]: https://www.linkedin.com/in/kevin-suasnabar/
