@@ -31,7 +31,7 @@ I'm working on different personal projects to gain experience and build connecti
 
 # 💻 Tech Stack:
 ### Digital Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Digital Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ### Operating Systems
 [![Operating Systems](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
@@ -40,12 +40,12 @@ I'm working on different personal projects to gain experience and build connecti
 ![VMware](https://a11ybadges.com/badge?logo=vmware)
 
 ### Other Skills
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) 
+[![Other Skills](https://skillicons.dev/icons?i=ps,figma,git,notion,github,vercel)](https://skillicons.dev) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) 
 
 <br />
 <h3 align="left">Learning:</h3>
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+[![Learning](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 
 <br>
 <br>
