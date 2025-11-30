@@ -40,7 +40,7 @@ I'm working on different personal projects to gain experience and build connecti
 ![VMware](https://a11ybadges.com/badge?logo=vmware)
 
 ### Other Skills
-[![Other Skills](https://skillicons.dev/icons?i=ps,figma,git,notion,github,vercel)](https://skillicons.dev) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) 
+[![Other Skills](https://skillicons.dev/icons?i=ps,figma,git,notion,github,vercel)](https://skillicons.dev) <br><br>![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) 
 
 <br />
 <h3 align="left">Learning:</h3>
