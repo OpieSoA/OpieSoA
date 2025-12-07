@@ -1,10 +1,18 @@
 # ![e0bard](https://github.com/OpieSoA/OpieSoA/assets/74331400/498daeae-f129-4592-9fa6-e103ab262b26) 👋 Hi There, I'm Kevin Suasnabar 🤠
 ### Indie (Trainee) Fullstack Developer & Cybersecurity Student
 
-<br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm a Student Developer and Professional Discord Server Builder!! 👨‍💻 <br>
-My skills include to Frontend Development AND learning new things being what I am the best at!
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">I'm a Student Developer and Professional Discord Server Builder!!👨‍💻</h2> </summary>
+    <summary>My skills include to Frontend Development AND learning new things being what I am the best at!</summary>
+  </ul>
+</div>
+ 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br>
 
 I'm working on different personal projects to gain experience and build connections. And also currently working as Instructor and Community Manager on Taekwondo GEBA.
 
@@ -12,16 +20,36 @@ I'm working on different personal projects to gain experience and build connecti
 **Project Name:** Taekwondo GEBA<br>
 **Software Stack:** HTML, CSS and Javascript<br>
 
+<!-- Main Content Grid -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      
 ### My studies
 - ISTEA (Educacion IT)
   - System Analysis Technique (2021) <br />
 - Bootcamp (Educacion IT)
   - Fullstack Engineer (2022)
-
-<br>
+<!--(- UTN (FRBA)
+  - Information Systems Engineering (2026-)-->
 
 ### Recruitment
 - 💻 I'm open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other proyect(s)
+
+### 🥋More about me:
+- 📟┇ Retired Moderator and Administrator on 7 Discord Servers <br>
+- 🌱┇ I’m currently learning everything new! <br>  
+- 🥋┇ 3rd Degree Black Belt TKD <br>
+- ⚡┇ Fun fact: I love Heavy Metal
+
+    </td>
+    <td width="40%" align="center" valign="center">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80%" style="border-radius: 15px; border: 2px solid #0EA5E9;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,13 +91,6 @@ I'm working on different personal projects to gain experience and build connecti
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=opiesoa&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-
-### 🥋 More about me:
-↣ 📟┇Moderator in 7 Discord Servers <br>
-↣ 🌱┇ I’m currently learning everything new! <br>
-↣ 🥋┇ 3rd Degree Black Belt TKD <br>
-↣ ⚡┇ Fun fact: I love Heavy Metal
 
 ---
 
