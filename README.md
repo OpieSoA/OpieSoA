@@ -147,17 +147,6 @@ tertiary      = Understand what Umbrella is hiding in /etc/
 <tr>
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=OpieSoA&show_icons=true&title_color=8B0000&text_color=ffffff&icon_color=8B0000&bg_color=0a0a0a&border_color=8B0000&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpieSoA&layout=compact&title_color=8B0000&text_color=ffffff&bg_color=0a0a0a&border_color=8B0000&langs_count=6&cache_seconds=1800" alt="Top Languages" height="180"/>
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OpieSoA&theme=dark&background=0a0a0a&border=8B0000&stroke=8B0000&ring=8B0000&fire=FF0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B0000&sideLabels=8B0000&dates=ffffff" alt="GitHub Streak"/>
