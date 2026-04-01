@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://wallpapersok.com/images/high/hd-resident-evil-raccoon-city-v7z09w7alax5q8rk.webp" width="100%" alt="Raccoon City — Population: 0"/>
+<img src="https://wallpapersok.com/images/high/hd-resident-evil-raccoon-city-v7z09w7alax5q8rk.webp" width="1500" height="250" alt="Raccoon City — Population: 0"/>
 
 </div>
 
