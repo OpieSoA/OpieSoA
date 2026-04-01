@@ -1,98 +1,285 @@
-# ![e0bard](https://github.com/OpieSoA/OpieSoA/assets/74331400/498daeae-f129-4592-9fa6-e103ab262b26) 👋 Hi There, I'm Kevin Suasnabar 🤠
-### Indie (Trainee) Fullstack Developer & Cybersecurity Student
+<!--
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█   UMBRELLA CORPORATION — CLASSIFIED DOCUMENT                                █
+█   PERSONNEL FILE — STARS DIVISION — CLEARANCE: ALPHA                       █
+█   WARNING: UNAUTHORIZED ACCESS IS A VIOLATION OF U.C. PROTOCOL 7-B         █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
+-->
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">I'm a Student Developer and Professional Discord Server Builder!!👨‍💻</h2> </summary>
-    <summary>My skills include to Frontend Development AND learning new things being what I am the best at!</summary>
-  </ul>
+<img src="https://wallpapersok.com/images/high/hd-resident-evil-raccoon-city-v7z09w7alax5q8rk.webp" width="100%" alt="Raccoon City — Population: 0"/>
+
 </div>
- 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <br>
-
-I'm working on different personal projects to gain experience and build connections. And also currently working as Instructor and Community Manager on Taekwondo GEBA.
-
-### [![Website](https://user-images.githubusercontent.com/74331400/161770871-5b1129ca-a4ed-491f-810a-98df2ad65714.png)][website] Currently working on TKD ITF Web page<br>
-**Project Name:** Taekwondo GEBA<br>
-**Software Stack:** HTML, CSS and Javascript<br>
-
-<!-- Main Content Grid -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      
-### My studies
-- ISTEA (Educacion IT)
-  - System Analysis Technique (2021) <br />
-- Bootcamp (Educacion IT)
-  - Fullstack Engineer (2022)
-<!--(- UTN (FRBA)
-  - Information Systems Engineering (2026-)-->
-
-### Recruitment
-- 💻 I'm open to internships and part time jobs. Only if it is a reasonable offer. Having to juggle studies, hobbies and other proyect(s)
-
-### 🥋More about me:
-- 📟┇ Retired Moderator and Administrator on 7 Discord Servers <br>
-- 🌱┇ I’m currently learning everything new! <br>  
-- 🥋┇ 3rd Degree Black Belt TKD <br>
-- ⚡┇ Fun fact: I love Heavy Metal
-
-    </td>
-    <td width="40%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80%" style="border-radius: 15px; border: 2px solid #0EA5E9;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://links-drwells.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Link Bio"/></a>
-<a href="mailto:kevin.suasnabar@protonmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Link Bio"/></a>  
-</p>
-
-# 💻 Tech Stack:
-### Digital Skills
-[![Digital Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-### Operating Systems
-[![Operating Systems](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-
-### Virtualization
-![VMware](https://a11ybadges.com/badge?logo=vmware)
-
-### Other Skills
-[![Other Skills](https://skillicons.dev/icons?i=ps,figma,git,notion,github,vercel)](https://skillicons.dev) <br><br>![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) 
-
-<br />
-<h3 align="left">Learning:</h3>
-
-[![Learning](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
-
-<br>
-<br>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=opiesoa&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=opiesoa&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=opiesoa&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OpieSOA&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=opiesoa&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
-[website]: https://taekwondogeba.vercel.app/
-[linkedin]: https://www.linkedin.com/in/kevin-suasnabar/
+<div align="center">
+
+```
+██╗   ██╗███╗   ███╗██████╗ ██████╗ ███████╗██╗     ██╗      █████╗      ██████╗ ██████╗ ██████╗ ██████╗
+██║   ██║████╗ ████║██╔══██╗██╔══██╗██╔════╝██║     ██║     ██╔══██╗    ██╔════╝██╔═══██╗██╔══██╗██╔══██╗
+██║   ██║██╔████╔██║██████╔╝██████╔╝█████╗  ██║     ██║     ███████║    ██║     ██║   ██║██████╔╝██████╔╝
+██║   ██║██║╚██╔╝██║██╔══██╗██╔══██╗██╔══╝  ██║     ██║     ██╔══██║    ██║     ██║   ██║██╔══██╗██╔═══╝
+╚██████╔╝██║ ╚═╝ ██║██████╔╝██║  ██║███████╗███████╗███████╗██║  ██║    ╚██████╗╚██████╔╝██║  ██║██║
+ ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
+```
+
+<img src="https://img.shields.io/badge/UMBRELLA_CORP-CLASSIFIED-8B0000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==&logoColor=white&labelColor=0a0a0a" alt="Classified"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-8B0000?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CLEARANCE-ALPHA-8B0000?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Clearance"/>
+
+</div>
+
+<br>
+
+---
+
+## <img src="https://img.shields.io/badge/⚠-ACCESSING_PERSONNEL_DATABASE...-8B0000?style=flat-square&logoColor=white" alt=""/>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║         S . T . A . R . S .  —  PERSONNEL FILE  —  EYES ONLY              ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║  FILE ID       : UC-RC-2024-∆∆∆-ENCRYPTED                                 ║
+║  NAME / ALIAS  : Kevin Suasnabar                                          ║
+║  DIVISION      : Indie (Trainee) Fullstack Developer & Cybersec Student   ║
+║  RANK          : OPERATIVE — TRAINEE CLASS                                ║
+║  STATUS        : ⚠  CAUTION — HIGHLY VOLATILE ASSET                       ║
+║  LOCATION      : Raccoon City Underground — Sector 7 Lab                  ║
+║  LAST CONTACT  : [TIMESTAMP ENCRYPTED]                                    ║
+║  THREAT LEVEL  : ████████░░  EXTREME                                      ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## `> STATUS_REPORT.log`
+
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+<tr>
+<td>
+
+```bash
+$ cat /raccoon_city/operative/status.conf
+
+[OPERATIVE_PROFILE]
+name          = "Kevin Suasnabar"
+alias         = "Hex Walker"
+role          = "Indie (Trainee) Fullstack Dev | Cybersecurity Student"
+status        = CAUTION ⚠
+location      = Raccoon City Underground
+current_op    = "Surviving the stack. Avoiding T-Virus."
+threat_to_sys = TRUE
+containment   = FAILED — SUBJECT STILL ACTIVE
+
+[MISSION_OBJECTIVES]
+primary       = Build. Break. Secure. Repeat.
+secondary     = Master the full stack before full collapse
+tertiary      = Understand what Umbrella is hiding in /etc/
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> ARSENAL.exe — LOADING WEAPONS...`
+
+<br>
+
+<div align="center">
+
+<!-- FRONTEND -->
+<img src="https://img.shields.io/badge/HTML5-Markup_Protocol-8B0000?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0a0a" alt="HTML5"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-Style_Injection-8B0000?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0a0a" alt="CSS3"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-Runtime_Engine-8B0000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0a0a0a" alt="JavaScript"/>
+
+<br><br>
+
+<!-- OS / SYSTEMS -->
+<img src="https://img.shields.io/badge/Windows-Host_OS-8B0000?style=for-the-badge&logo=windows&logoColor=white&labelColor=0a0a0a" alt="Windows"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-Kernel_Override-8B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=0a0a0a" alt="Linux"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VMware-Virtual_Containment-8B0000?style=for-the-badge&logo=vmware&logoColor=white&labelColor=0a0a0a" alt="VMware"/>
+
+<br><br>
+
+<!-- DEVTOOLS -->
+<img src="https://img.shields.io/badge/Git-Version_Control-8B0000?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a" alt="Git"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-Remote_Vault-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vercel-Deploy_Protocol-8B0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Vercel"/>
+
+<br><br>
+
+<!-- EDITORS -->
+<img src="https://img.shields.io/badge/VSCode-Primary_Terminal-8B0000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0a0a0a" alt="VSCode"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Neovim-Neural_Interface-8B0000?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0a0a0a" alt="Neovim"/>
+
+</div>
+
+<br>
+
+---
+
+## `> DATA_ANALYTICS — SCRAPING SURVIVOR LOGS...`
+
+<br>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=OpieSoA&show_icons=true&title_color=8B0000&text_color=ffffff&icon_color=8B0000&bg_color=0a0a0a&border_color=8B0000&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpieSoA&layout=compact&title_color=8B0000&text_color=ffffff&bg_color=0a0a0a&border_color=8B0000&langs_count=6&cache_seconds=1800" alt="Top Languages" height="180"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OpieSoA&theme=dark&background=0a0a0a&border=8B0000&stroke=8B0000&ring=8B0000&fire=FF0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8B0000&sideLabels=8B0000&dates=ffffff" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OpieSoA&bg_color=0a0a0a&color=8B0000&line=8B0000&point=FF0000&area=true&hide_border=false&border_color=8B0000&area_color=1a0000" alt="Activity Graph" width="95%"/>
+
+</div>
+
+---
+
+## `> ENCRYPTED_LOGS — CLASSIFIED MISSIONS`
+
+<br>
+
+<table align="center" border="0" cellspacing="0" cellpadding="6" width="90%">
+
+<tr>
+<td width="50%" valign="top">
+<pre>
+╔═══════════════════════════════╗
+║  MISSION: ALPHA-01            ║
+║  STATUS: ████████░░ 80%       ║
+║  CLEARANCE: PUBLIC            ║
+╠═══════════════════════════════╣
+║  CODENAME: <a href="https://github.com/OpieSoA/TaekwondoGEBA-NewWebsite">Tkd_GEBA_Website</a>   ║
+║  TYPE: Fullstack Operation    ║
+║  STACK: HTML • CSS • JS       ║
+║  OUTCOME: PENDING DEBRIEF     ║
+╚═══════════════════════════════╝
+</pre>
+</td>
+<td width="50%" valign="top">
+<pre>
+╔═══════════════════════════════╗
+║  MISSION: BRAVO-02            ║
+║  STATUS: ██████░░░░ 60%       ║
+║  CLEARANCE: RESTRICTED        ║
+╠═══════════════════════════════╣
+║  CODENAME: <a href="https://github.com/OpieSoA/E.J.-Beunza-Asoc.">E.J.-Beunza-Asoc.</a>  ║
+║  TYPE: Frontend Operation     ║
+║  STACK: HTML • CSS • JS       ║
+║  OUTCOME: INTEL GATHERING     ║
+╚═══════════════════════════════╝
+</pre>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<pre>
+╔═══════════════════════════════╗
+║  MISSION: CHARLIE-03          ║
+║  STATUS: ████░░░░░░ 40%       ║
+║  CLEARANCE: EYES ONLY         ║
+╠═══════════════════════════════╣
+║  CODENAME: <a href="https://github.com/OpieSoA/Taekwondo-GEBA-Linktree">Tkd-GEBA-Linktree</a>  ║
+║  TYPE: UI/UX Infiltration     ║
+║  STACK: HTML • CSS • JS       ║
+║  OUTCOME: IN PROGRESS         ║
+╚═══════════════════════════════╝
+</pre>
+</td>
+<td width="50%" valign="top">
+<pre>
+╔═══════════════════════════════╗
+║  MISSION: DELTA-04            ║
+║  STATUS: ██░░░░░░░░ 20%       ║
+║  CLEARANCE: TOP SECRET        ║
+╠═══════════════════════════════╣
+║  CODENAME: <a href="https://github.com/OpieSoA/My_Homepage">My_Homepage</a>        ║
+║  TYPE: Frontend Operation     ║
+║  STACK: HTML • CSS • JS       ║
+║  OUTCOME: CLASSIFIED ███████  ║
+╚═══════════════════════════════╝
+</pre>
+</td>
+</tr>
+
+</table>
+
+
+> **NOTE:** Replace `[PROJECT NAME]` with your actual repository names and link them using Markdown: `[CODENAME](https://github.com/KevinSuasnabar/repo-name)`
+
+---
+
+## `> COMMS_CHANNEL — ESTABLISH CONTACT`
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GitHub-INTEL GATHERING-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Portfolio-ENCRYPTED-8B0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-CLASSIFIED-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "Whatever doesn't kill you... simply makes you stranger."                  ║
+║                                                — Raccoon City Survivor Log   ║
+║                                                                              ║
+║   UMBRELLA CORPORATION — THIS FILE WILL SELF-DESTRUCT IN: 72:00:00           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=KevinSuasnabar&color=8B0000&style=for-the-badge&label=FILES+ACCESSED" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer&text=&fontColor=ffffff&fontSize=0&animation=fadeIn&reversal=true" width="100%"/>
+
+</div>
