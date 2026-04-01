@@ -229,9 +229,6 @@ tertiary      = Understand what Umbrella is hiding in /etc/
 
 </table>
 
-
-> **NOTE:** Replace `[PROJECT NAME]` with your actual repository names and link them using Markdown: `[CODENAME](https://github.com/KevinSuasnabar/repo-name)`
-
 ---
 
 ## `> COMMS_CHANNEL — ESTABLISH CONTACT`
